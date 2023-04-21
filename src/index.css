@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Cedarville Cursive', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Cedarville Cursive', cursive;
+}
+
+#carousel {
+  max-height: 600px;
+}
+
